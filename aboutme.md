@@ -4,7 +4,7 @@ title: About me
 subtitle: They Call Me Daddy
 ---
 
-My name is Sean, I'm practicing to be dad. 
+My name is Sean, I'm practicing to be a dad. 
 
 - Can Elsa play with balloons?
   > No, she'll *let it go!*
