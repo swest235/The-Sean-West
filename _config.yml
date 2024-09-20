@@ -99,16 +99,17 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F2F4F3"         # Light Grayish Green (Soft)
-navbar-text-col: "#222831"     # Charcoal (Dark Text for contrast)
-navbar-border-col: "#D3D4D9"   # Light Blue-Gray (Subtle border color)
-page-col: "#F7F9F9"           # Very Light Gray (Clean page background)
-text-col: "#3A3A3A"           # Darker Gray for text (Clear contrast)
-link-col: "#FFA500"            # Bright Orange (Eye-catching for links)
-hover-col: "#FF7518"           # Slightly Darker Orange (Distinct hover effect)
-footer-col: "#F2F4F3"          # Light Grayish Green (Matches navbar for consistency)
-footer-text-col: "#555555"     # Medium Gray for footer text
-footer-link-col: "#222831"     # Charcoal for links in the footer (Consistent with navbar text)
+navbar-col: "#2C3E50"       # Dark Blue-Grey
+navbar-text-col: "#ECF0F1"  # Light Grey-White
+navbar-border-col: "#34495E" # Muted Blue
+page-col: "#FDFEFE"         # Near White
+text-col: "#2C3E50"         # Dark Blue-Grey (same as navbar)
+link-col: "#2980B9"         # Vibrant Blue
+hover-col: "#1ABC9C"        # Aqua Green
+footer-col: "#34495E"       # Muted Blue
+footer-text-col: "#ECF0F1"  # Light Grey-White
+footer-link-col: "#2980B9"  # Vibrant Blue (same as link-col)
+
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
