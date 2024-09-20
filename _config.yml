@@ -100,16 +100,15 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2C3E50"       # Dark Blue-Grey
-navbar-text-col: "#ECF0F1"  # Light Grey-White
-navbar-border-col: "#34495E" # Muted Blue
-page-col: "#FDFEFE"         # Near White
-text-col: "#2C3E50"         # Dark Blue-Grey (same as navbar)
-link-col: "#2980B9"         # Vibrant Blue
-hover-col: "#1ABC9C"        # Aqua Green
-footer-col: "#34495E"       # Muted Blue
-footer-text-col: "#ECF0F1"  # Light Grey-White
-footer-link-col: "#2980B9"  # Vibrant Blue (same as link-col)
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 
 
