@@ -6,7 +6,7 @@ subtitle: They Call Me Daddy
 
 My name is Sean, I'm practicing to be dad. 
 
-- Can Elsa play with baloons?
+- Can Elsa play with balloons?
   > No, she'll *let it go!*
 - Have you ever seen two skeletons fight?
   >Nah, I don't think they'd have the *guts!*
