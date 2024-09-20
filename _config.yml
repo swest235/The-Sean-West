@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: The Sean West
-description: An epilogue of the one, and only, but of many, Sean West(s). 
+title: PAF 514 Example Github Pages Website
+description: Project to practice web development
 # Your name to show in the footer
-author: He, who is, Sean West
+author: Sean West
 #Define Site URL
 url: https://swest235.github.io
 #baseurl: /The-Sean-West/table-demo/ #this gave me issues, but without it I have no problems
@@ -44,7 +44,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: ""
   facebook: sean.west.9678
   github: swest235
   twitter: ""
