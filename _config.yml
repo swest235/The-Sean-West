@@ -12,6 +12,7 @@ description: An epilogue of the one, and only, but of many, Sean West(s).
 author: He, who is, Sean West
 #Define Site URL
 url: https://swest235.github.io
+baseurl: /The-Sean-West/table-demo/
 
 
 # --- List of links in the navigation bar --- #
