@@ -6,8 +6,8 @@
 # --- Required options --- #
 
 # Name of website
-title: PAF 514 Example Github Pages Website
-description: Project to practice web development
+title: I made this with my hands
+description: A soon-to-be-dad trying his best at making a github website
 # Your name to show in the footer
 author: Sean West
 #Define Site URL
@@ -70,7 +70,7 @@ linkedin: seanawest
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is proof of something
 
 # --- General options --- #
 
