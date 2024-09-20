@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
-
+title: The Sean West
+description: An epilogue of the one, and only, but of many, Sean West(s). 
 # Your name to show in the footer
-author: Some Person
+author: He, who is, Sean West
 
 # --- List of links in the navigation bar --- #
 
@@ -40,14 +40,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: sean.west.9678
+  github: swest235
+  twitter: ""
+  patreon: ""
+  youtube: ""
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+linkedin: seanawest
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +71,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
@@ -99,16 +99,17 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+navbar-col: "#F2F4F3"         # Light Grayish Green (Soft)
+navbar-text-col: "#222831"     # Charcoal (Dark Text for contrast)
+navbar-border-col: "#D3D4D9"   # Light Blue-Gray (Subtle border color)
+page-col: "#F7F9F9"           # Very Light Gray (Clean page background)
+text-col: "#3A3A3A"           # Darker Gray for text (Clear contrast)
+link-col: "#FFA500"            # Bright Orange (Eye-catching for links)
+hover-col: "#FF7518"           # Slightly Darker Orange (Distinct hover effect)
+footer-col: "#F2F4F3"          # Light Grayish Green (Matches navbar for consistency)
+footer-text-col: "#555555"     # Medium Gray for footer text
+footer-link-col: "#222831"     # Charcoal for links in the footer (Consistent with navbar text)
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
