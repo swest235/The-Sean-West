@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: They call be *daddy*
+subtitle: They Call Me Daddy
 ---
 
 My name is Sean, I'm practicing to be dad. 
