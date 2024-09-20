@@ -25,7 +25,7 @@ gosling:
 
 
 # Ryan V. Ryan
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+![](/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
